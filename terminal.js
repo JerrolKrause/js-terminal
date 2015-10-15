@@ -1,5 +1,5 @@
 //Creates a terminal application
-//REQUIRES jquery terminal plugin
+//REQUIRES jquery terminal plugin @ http://terminal.jcubic.pl/
 window.jkTerminal = (function() {
     'use strict';
 
